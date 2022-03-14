@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mr-wakadoodle aka Rahul
+- My another git account is Rahul-Tandon-17
 - 👀 I’m interested in python development
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on anything development related, happy to help!
